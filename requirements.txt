@@ -1,0 +1,23 @@
+﻿# -----------------------------------------------------------------
+#  FileOpener - Universal File Tool
+#  Run: pip install -r requirements.txt
+# -----------------------------------------------------------------
+
+# Archive support
+py7zr>=0.20.0
+rarfile>=4.1
+
+# Image conversion
+Pillow>=10.0.0
+
+# Document conversion
+python-docx>=0.8.11
+fpdf2>=2.7.0
+pypdf>=3.0.0
+
+# Data formats
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Drag and Drop
+tkinterdnd2>=0.3.0
